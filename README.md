@@ -1,7 +1,3 @@
-Sure Gayatri! Here is a **simple, clean, NORMAL README** with no fancy emojis — professional and straightforward.
-
----
-
 # Diabetes Prediction App
 
 This project is a simple machine learning application that predicts whether a person has diabetes based on medical input features. The model is built using Logistic Regression and deployed using Streamlit.
@@ -102,7 +98,4 @@ numpy
 pandas
 ```
 
----
 
-
-If you want, I can also give you a **shorter README** or a **more detailed academic-style README**.
