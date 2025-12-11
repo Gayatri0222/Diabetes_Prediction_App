@@ -10,7 +10,7 @@ A simple and user-friendly web application built with **Machine Learning** and *
 👉 *Add your Streamlit Cloud link here once deployed:*
 
 ```
-https://yourusername-diabetes-streamlit-app.streamlit.app/
+https://diabetespredictionapp-9ncbabmszbdushbtzaqk8e.streamlit.app/
 ```
 
 ---
